@@ -1,0 +1,7 @@
+id,categoria,pregunta,respuesta
+1,Envíos,¿Cuánto tarda el envío local?,El envío local tarda de 24 a 48 horas hábiles.
+2,Envíos,¿Cuál es el costo de envío a provincias?,El envío a provincias cuesta $10.00 USD o es gratis por compras superiores a $100 USD.
+3,Devoluciones,¿Cuál es el plazo para devolver un producto?,Tienes hasta 30 días calendario desde la recepción para solicitar la devolución.
+4,Devoluciones,¿Cuánto tarda en procesarse el reembolso?,En tarjeta de crédito/débito toma de 5 a 10 días hábiles. En transferencia directa toma de 24 a 48 horas hábiles.
+5,Pagos,¿Qué métodos de pago aceptan?,Aceptamos tarjetas Visa Mastercard AMEX PayPal Apple Pay Google Pay y transferencias bancarias.
+6,Garantía,¿Qué garantía tienen los productos?,Todos los artículos electrónicos cuentan con 12 meses de garantía oficial contra defectos de fábrica.
