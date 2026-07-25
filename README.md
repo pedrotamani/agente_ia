@@ -24,6 +24,7 @@ El agente utiliza técnicas de **Retrieval-Augmented Generation (RAG)** e ingest
         ▼                           ▼
 [PDF Reader / Ingestion]  [CSV Query Engine]
 (Base_de_Conocimiento.pdf) (preguntas_frecuentes.csv)
+````
 
 Entrada: El cliente realiza una consulta mediante la interfaz de chat interactiva.
 
@@ -48,18 +49,18 @@ Control de Versiones: Git & GitHub
 Cualquier evaluador o usuario puede ejecutar este proyecto en su máquina local siguiendo estos pasos:
 
 1. Clonar el repositorio:
-
+````
 git clone [https://github.com/TU_USUARIO/desafio-alura-agente-inteligente.git](https://github.com/TU_USUARIO/desafio-alura-agente-inteligente.git)
 cd desafio-alura-agente-inteligente
-
+````
 2. Instalar dependencias:
-
+````
 pip install -r requirements.txt
-
+````
 3. Ejecutar la aplicación:
-
+````
 streamlit run app.py
-
+````
 4. Acceder a la aplicación: Abre tu navegador web en http://localhost:8501.
 
 💬 5. Ejemplos de Preguntas y Respuestas del Agente
